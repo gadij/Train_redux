@@ -1,0 +1,14 @@
+body {
+    background: coral;
+.loading-box {
+    margin: 120px auto;
+    width: 75px;
+    height: 75px;
+    border: 10px solid white;
+    transform: rotate(180deg);
+.innerBox {
+    background: white;
+    height: 20px;
+}
+}
+}
